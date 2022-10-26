@@ -1,0 +1,82 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Sofia", sans-serif;
+  }
+body {
+    font-family: "Sofia", sans-serif;
+    background-image: url('uglyback.jpeg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+.sidebar {
+	overflow: hidden;
+	background-color: pink;
+	width: 100vw;
+}
+
+.sidebar a{
+	padding:10px;
+	float:left;
+	display: block;
+	color: white;
+	text-align: center;
+
+}
+
+.sidebar a.right{
+	float: right;
+}
+
+.line1{
+	width: 100vw;
+	height: 20px;
+	border-bottom: 3px solid white;
+	position: absolute;
+
+}
+.selfInfo{
+	padding: 5px;
+	margin-left: 30px;
+	margin-top: 25px;
+	width: 45vw;
+	font-family: 'Lato',serif;
+	color: rgb(73, 66, 10);
+	background: rgba(238, 130, 138, 0.3);
+	float: left;
+	border-radius: 25px;
+	height: 700px;
+	line-height:30px;
+	margin-bottom: 25px;
+}
+
+
+.basic{
+	padding: 5px;
+	margin-top: 25px;
+	width: 45vw;
+	font-family: 'Lato',serif;
+	color: rgb(73, 66, 10);
+	background: rgba(238, 130, 138, 0.3);
+	float: right;
+	border-radius: 8px;
+	height: 700px;
+	line-height:30px;
+	margin-bottom: 25px;
+
+}
+
+
+img{
+	display: block;
+	border-radius: 6px;
+	margin-left: auto;
+  	margin-right: auto;
+	width: 30%;
+    height: 40%;
+}
+
+

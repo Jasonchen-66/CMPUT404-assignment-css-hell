@@ -1,0 +1,1 @@
+For part I, I add a paper like backgroud to all my 3 gutenberg documents. In addition, I changed the font style for paragraph and word color. Also, change the display loaction, font style for header. Moreover, I change the display and border-radius for image.
